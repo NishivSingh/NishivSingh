@@ -9,7 +9,7 @@
 
 - 📒 I am in my final year of B.Tech Materials Engineering
   
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Next Js and Sanity**
 
 - 💬 Ask me about **movies , webseries and anime**
 
