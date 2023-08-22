@@ -11,7 +11,7 @@
   
 - 🌱 I’m currently learning **Next Js and Sanity**
 
-- 💬 Ask me about **movies , webseries and anime**
+- 💬 Ask me about **frontend development, machine learning and mobile app development**
 
 - 📫 How to reach me **singh.136@iitj.ac.in**
 
