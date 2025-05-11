@@ -1,19 +1,18 @@
 [![MasterHead](github-header-image.png)](https://nishivsingh.io)
-<h1 align="center">Hi 👋, I'm Nishiv Singh</h1>
-<h3 align="center">Data Analyst</h3>
-<img align="right" alt"Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishivsingh&label=Profile%20views&color=035b91&style=plastic" alt="nishivsingh" /> </p>
 
 ## 👨‍💻 About Me
 
-- 📒 I am in my final year of B.Tech Materials Engineering
+- 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **Next Js and Sanity**
+- 🌱 I’m currently learning **Pytorch**
 
-- 💬 Ask me about **frontend development, machine learning and mobile app development**
+- 💬 Ask me about **Data Analysis , Machine Learning**
 
-- 📫 How to reach me **singh.136@iitj.ac.in**
+- 📫 How to reach me **nishiv2001@gmail.com**
 
 <br/>
 
