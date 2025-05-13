@@ -20,7 +20,6 @@
 
 <p align="left" style = "padding-left : 5px;">
 <a href="https://linkedin.com/in/nishiv-singh-a5549120b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishiv-singh-a5549120b" height="30" width="40" /></a>
-<a href="https://instagram.com/nishivsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishivsingh" height="30" width="40" /></a>
   
 <br/>
   
