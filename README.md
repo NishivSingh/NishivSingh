@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
-- 📫 How to reach me **nishiv2001@gmail.com**
 
 <br/>
 
