@@ -1,4 +1,5 @@
-[![MasterHead](myImg.png)](https://nishivsingh.io)
+[![MasterHead](https://raw.githubusercontent.com/NishivSingh/NishivSingh/main/assets/image/myImg.png
+)](https://nishivsingh.io)
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
