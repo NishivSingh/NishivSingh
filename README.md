@@ -39,7 +39,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,figma)](https://skillicons.dev)
 
