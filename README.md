@@ -40,8 +40,6 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,figma)](https://skillicons.dev)
-
 <br/>
 
 ## 📲 My Github Stats
