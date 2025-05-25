@@ -37,7 +37,6 @@
 ## 📑 Languages and Tools:
 <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)
 
 
 <br/>
