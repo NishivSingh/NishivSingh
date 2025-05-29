@@ -35,7 +35,7 @@
 <br/>
 
 ## 📑 Languages and Tools:
-
+<p align="left" style = "padding-left : 5px;">
 
   
 
