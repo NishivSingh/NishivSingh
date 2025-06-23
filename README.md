@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
