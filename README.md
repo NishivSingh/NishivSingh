@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **XG Boost**
+- 🌱 I’m currently learning **Light GBM**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
