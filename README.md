@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **Decision Tree**
+- 🌱 I’m currently learning **Random Forest**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
