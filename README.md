@@ -37,15 +37,15 @@
 ## 📑 Languages and Tools:
 <p align="left" style = "padding-left : 5px;">
 🧑‍💻 Programming Languages
-<p align="left" style="padding-left: 5px;"> <img src="assets/icons/python.svg" alt="Python" title="Python" width="40" height="40"/> <img src="assets/icons/sql.svg" alt="SQL" title="SQL" width="40" height="40"/> </p>
+<p align="left" style="padding-left: 5px;"> <img src="assets/icons/python-svgrepo-com.svg" alt="Python" title="Python" width="40" height="40"/> <img src="assets/icons/sql-database-generic-svgrepo-com.svg" alt="SQL" title="SQL" width="40" height="40"/> </p>
 📊 Data Manipulation & Analysis
-<p align="left" style="padding-left: 5px;"> <img src="assets/icons/pandas.svg" alt="Pandas" title="Pandas" width="40" height="40"/> <img src="assets/icons/numpy.svg" alt="NumPy" title="NumPy" width="40" height="40"/> <img src="assets/icons/powerquery.svg" alt="Power Query" title="Power Query" width="40" height="40"/> <img src="assets/icons/excel.svg" alt="Excel" title="Excel" width="40" height="40"/> </p>
+<p align="left" style="padding-left: 5px;"> <img src="assets/icons/pandas-svgrepo-com.svg" alt="Pandas" title="Pandas" width="40" height="40"/> <img src="assets/icons/numpy-svgrepo-com.svg" alt="NumPy" title="NumPy" width="40" height="40"/> <img src="assets/icons/powerquery.svg" alt="Power Query" title="Power Query" width="40" height="40"/> <img src="assets/icons/excel-svgrepo-com.svg" alt="Excel" title="Excel" width="40" height="40"/> </p>
 📈 Data Visualization
-<p align="left" style="padding-left: 5px;"> <img src="assets/icons/powerbi.svg" alt="Power BI" title="Power BI" width="40" height="40"/> <img src="assets/icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40"/> <img src="assets/icons/seaborn.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/> </p>
+<p align="left" style="padding-left: 5px;"> <img src="assets/icons/Power-BI-Logo.svg" alt="Power BI" title="Power BI" width="40" height="40"/> <img src="assets/icons/matplotlib.svg" alt="Matplotlib" title="Matplotlib" width="40" height="40"/> <img src="assets/icons/seaborn.svg" alt="Seaborn" title="Seaborn" width="40" height="40"/> </p>
 🤖 Machine Learning
 <p align="left" style="padding-left: 5px;"> <img src="assets/icons/scikit-learn.svg" alt="scikit-learn" title="scikit-learn" width="40" height="40"/> </p>
 🧰 Tools & Environment
-<p align="left" style="padding-left: 5px;"> <img src="assets/icons/git.svg" alt="Git" title="Git" width="40" height="40"/> <img src="assets/icons/jupyter.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40"/> <img src="assets/icons/vscode.svg" alt="VS Code" title="VS Code" width="40" height="40"/> </p>
+<p align="left" style="padding-left: 5px;"> <img src="assets/icons/git-svgrepo-com.svg" alt="Git" title="Git" width="40" height="40"/> <img src="assets/icons/jupyter-svgrepo-com.svg" alt="Jupyter Notebook" title="Jupyter Notebook" width="40" height="40"/> <img src="assets/icons/vs-code-svgrepo-com.svg" alt="VS Code" title="VS Code" width="40" height="40"/> </p>
 
   
 
