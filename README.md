@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **KNN Regressor**
+- 🌱 I’m currently learning **KNN Classifier**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
