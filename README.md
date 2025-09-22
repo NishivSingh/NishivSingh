@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **Recursive CTE**
+- 🌱 I’m currently learning **Subqueries**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
