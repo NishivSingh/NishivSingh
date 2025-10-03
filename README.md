@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **SVM Classifier**
+- 🌱 I’m currently learning **SVM Regressor**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
