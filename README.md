@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently participating in **Kaggle Monthly Contest**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
