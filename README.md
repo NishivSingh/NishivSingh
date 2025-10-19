@@ -9,7 +9,7 @@
 
 - 📒 Working as a data analyst in process control area of an industry
   
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Keras**
 
 - 💬 Ask me about **Data Analysis , Machine Learning**
 
